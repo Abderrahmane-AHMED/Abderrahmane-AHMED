@@ -49,6 +49,9 @@ class About extends Me {
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+- **Titre Professionnel Développeur Web et Web Mobile (DWWM)**  
+  Awarded by *Ministère du Travail, France (https://www.francecompetences.fr/)*  
+  📅 *Septembre 2025*  
 - 10 - OOP as it should be (concepts) (Programming Advices)
 - Completed 14+ courses in Abu-Hadhoud Roadmap (Programming Advices)
 - Solved 100+ programming problems
