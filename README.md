@@ -42,7 +42,27 @@ class About extends Me {
 - :zap: Fun fact: I love coding challenges, meetups, and networking with developers.
 
 ---
+### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+- [Project Asp.Net Core MVC (Framework) (Bank System)](https://github.com/Abderrahmane-AHMED/Bank-System)
 
+
+---
+
+### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+- 10 - OOP as it should be (concepts) (Programming Advices)
+- Completed 14+ courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Solved 100+ programming problems
+
+---
+
+### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+- **Abu-Hadhoud Roadmap**
+- Mastering **C#** & **OOP** 💡  
+- Algorithms and Problem Solving  
+- Practicing with small projects 🛠️  
+- Improving my professional profile on **GitHub** and **LinkedIn**
+
+---
 ### 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-ahmed-69436438a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
