@@ -37,7 +37,7 @@ class About extends Me {
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: Full Stack Web Developer with experience in **ASP.NET Core**, front-end & back-end development. 
-- :rocket: Passionate about building **web & mobile applications** from scratch to deployment.  
+- :rocket: Passionate about building **web applications** from scratch to deployment.  
 - :man_technologist: Committed to continuous learning & real-world projects. 
 - :zap: Fun fact: I love coding challenges, meetups, and networking with developers.
 
