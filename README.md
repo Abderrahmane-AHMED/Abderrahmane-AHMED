@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<h2>Hi there! I'm Abderrahmane AHMED , Full Stack Web Developer👋</h2>
+<h2>Hi there! I'm Abderrahmane AHMED , Backend Developer👋</h2>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 
@@ -36,7 +36,7 @@ class About extends Me {
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: Full Stack Web Developer with experience in **ASP.NET Core**, front-end & back-end development. 
+- :computer: Backend Developer with experience in **ASP.NET Core**. 
 - :rocket: Passionate about building **web applications** from scratch to deployment.  
 - :man_technologist: Committed to continuous learning & real-world projects. 
 - :zap: Fun fact: I love coding challenges, meetups, and networking with developers.
