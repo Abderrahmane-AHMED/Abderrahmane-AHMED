@@ -25,7 +25,7 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "C++", " "c#" },
+    "ProgramingLanguages" : { "C++", " "C#" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json"},
     "Database" : { "SQL SERVER" },
     "Editors" : { "Vscode", "Vscommunity" },
