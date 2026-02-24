@@ -43,9 +43,10 @@ class About extends Me {
 
 ---
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [🏦 Bank Management System – ASP.NET Core (Three-Tier Architecture)](https://github.com/Abderrahmane-AHMED/Bank-System)
-- [Project Asp.Net Core MVC (Framework) (ATM System)](https://github.com/Abderrahmane-AHMED/ATM-System)
-- [Problem Solving With C# .](https://github.com/Abderrahmane-AHMED/Problem-Solving).
+- [🏦 Bank Management System – Complete banking platform built with ASP.NET Core using Three-Tier Architecture and role-based permission system.](https://github.com/Abderrahmane-AHMED/Bank-System)
+- [🏧 ATM System – Real-time ATM interface connected to the banking system database.](https://github.com/Abderrahmane-AHMED/ATM-System)
+- [🧠 Problem Solving With C# .](https://github.com/Abderrahmane-AHMED/Problem-Solving).
+- [🛒 E-Commerce Application Full-stack web application with cart management and order validation.](https://github.com/Abderrahmane-AHMED/Problem-Solving).
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
@@ -69,7 +70,7 @@ class About extends Me {
 ### 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-ahmed-69436438a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Website](https://img.shields.io/badge/-Website-cyan?style=flat-square&logo=website&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Website](https://img.shields.io/badge/-Website-cyan?style=flat-square&logo=website&logoColor=white)](https://abderrahmane.blog/)
   
 
 
