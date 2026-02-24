@@ -43,10 +43,11 @@ class About extends Me {
 
 ---
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [🏦 Bank Management System – Complete banking platform built with ASP.NET Core using Three-Tier Architecture and role-based permission system.](https://github.com/Abderrahmane-AHMED/Bank-System)
+- [🏦 Bank Management System – with ASP.NET Core using Three-Tier Architecture and role-based permission system.](https://github.com/Abderrahmane-AHMED/Bank-System)
 - [🏧 ATM System – Real-time ATM interface connected to the banking system database.](https://github.com/Abderrahmane-AHMED/ATM-System)
-- [🧠 Problem Solving With C# .](https://github.com/Abderrahmane-AHMED/Problem-Solving).
 - [🛒 E-Commerce Application Full-stack web application with cart management and order validation.](https://github.com/Abderrahmane-AHMED/Problem-Solving).
+- [🧠 Problem Solving With C# .](https://github.com/Abderrahmane-AHMED/Problem-Solving).
+
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
