@@ -47,6 +47,7 @@ class About extends Me {
 - [🏧 ATM System – Real-time ATM interface connected to the banking system database.](https://github.com/Abderrahmane-AHMED/ATM-System)
 - [🛒 E-Commerce Application – Full-stack web application with cart management and order validation.](https://github.com/Abderrahmane-AHMED/E-Commerce).
 - [🧠 Problem Solving With C# .](https://github.com/Abderrahmane-AHMED/Problem-Solving).
+- [🧠 Problem Solving Intermediate With C# .](https://github.com/Abderrahmane-AHMED/Problem-Solving-Intermediate).
 
 ---
 
